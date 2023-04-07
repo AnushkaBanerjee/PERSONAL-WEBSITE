@@ -1,0 +1,13 @@
+
+ body{
+        background-color:aquamarine;
+      }
+
+      hr{
+        background-color: azure;
+        border-style:  dotted none none ;
+        border-color: grey;
+        border-width: 5px;
+        height: 0px ;
+        width: 10%;
+      }
